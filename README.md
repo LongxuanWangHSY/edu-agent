@@ -15,7 +15,7 @@
 
 | 模块 | 状态 | 说明 |
 |---|---|---|
-| [modules/writing](modules/writing/README.md) | 原始版（参考） | 从现有内容项目拷贝的**写作工作流**，架构文档 §1.3 称其为"教案模块的雏形"。⚠️ 里面是写给 AI 的执行指令，不是产品文档——**先读该目录的 README** 再打开 `skills/` |
+| [modules/euclid_maths_writing](modules/euclid_maths_writing/README.md) | 原始版（参考） | 从「欧几里德之门」数学公众号迁移的**完整内容生产工作流 + 34 篇产出文章**，架构文档 §1.3 称其为"教案模块的雏形"。⚠️ `skills/` 里是写给 AI 的执行指令，不是产品文档——**先读该模块的 README** |
 
 ## 计划做什么
 
